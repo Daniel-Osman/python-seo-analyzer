@@ -90,6 +90,6 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 ## Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
+Your Name - [@_Daniel_Osman]([https://twitter.com/Daniel-Osman](https://x.com/_Daniel_Osman))
 
 Project Link: [https://github.com/Daniel-Osman/python-seo-analyzer.](https://github.com/Daniel-Osman/python-seo-analyzer.)
